@@ -39,7 +39,6 @@ Si prefieres ejecutar o modificar el software desde el código fuente, necesitar
    ```bash
    python png_to_ico_converter.py
 
-
 ## 🛠️ ¿Cómo compilar tu propio .exe?
 
 1. Si modificas el código y quieres generar tu propio ejecutable con el icono incrustado en la ventana, usa este comando con PyInstaller:
