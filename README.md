@@ -5,7 +5,7 @@
 ![Pillow](https://img.shields.io/badge/Image-Pillow-yellow.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 
-Herramienta de escritorio ligera diseñada específicamente para la conversión rápida de imágenes PNG a iconos de Windows (`.ico`). Pensada para desarrolladores y creadores de herramientas (como las aplicaciones de la *Nemo Suite*) que necesitan generar iconos multiresolución o empaquetar ejecutables sin depender de servicios web ni perder calidad en el proceso.
+(Arquitecto Técnico_JMC) Herramienta de escritorio ligera diseñada específicamente para la conversión rápida de imágenes PNG a iconos de Windows (`.ico`). Pensada para desarrolladores y creadores de herramientas (como las aplicaciones de la *Nemo Suite*) que necesitan generar iconos multiresolución o empaquetar ejecutables sin depender de servicios web ni perder calidad en el proceso.
 
 ## 🚀 La Filosofía de la Herramienta (Fricción Cero)
 
