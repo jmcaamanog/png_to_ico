@@ -1,14 +1,8 @@
 # Nemo ICO Maker - Conversor a Windows 🖼️➡️🪟
 
-![Profesión](https://img.shields.io/badge/Profesi%C3%B3n-Arquitectos%20T%C3%A9cnicos-2e7d32?logo=micro%3Abit&logoColor=white&style=flat-square)
-![Role](https://img.shields.io/badge/Role-BIM%20%26%20ConTech-007ACC?logo=bim360&style=flat-square)
-![Location](https://img.shields.io/badge/Location-A%20Coru%C3%B1a%20%F0%9F%8C%8A-005B94?logo=lighthouse&logoColor=white&style=flat-square)
-![Maker](https://img.shields.io/badge/Maker-Software-red?logo=makerbot&style=flat-square)
-![Hardware](https://img.shields.io/badge/Hardware---grey?style=flat-square)
-![Windows](https://img.shields.io/badge/Platform-Windows-0078D6?logo=windows&style=flat-square)
-![Language](https://img.shields.io/badge/Language-Python-3776AB?logo=python&logoColor=white&style=flat-square)
-![Stars](https://img.shields.io/github/stars/jmcaamanog/png_to_ico?style=flat-square&color=yellow&logo=github)
-![License](https://img.shields.io/github/license/jmcaamanog/png_to_ico?style=flat-square&color=green)
+| 🏗️ Perfil & ConTech | 📈 Repositorio & Enlaces |
+| :--- | :--- |
+| ![Profesión](https://img.shields.io/badge/Profesi%C3%B3n-Arquitectos%20T%C3%A9cnicos-2e7d32?logo=micro%3Abit&logoColor=white&style=plastic) <br> ![Role](https://img.shields.io/badge/Role-BIM%20%26%20ConTech-007ACC?logo=bim360&style=plastic) <br> ![Location](https://img.shields.io/badge/Location-A%20Coru%C3%B1a%20%F0%9F%8C%8A-005B94?logo=lighthouse&logoColor=white&style=plastic) <br> ![Maker](https://img.shields.io/badge/Maker-Software-red?logo=makerbot&style=plastic) <br> ![Hardware](https://img.shields.io/badge/Hardware---grey?style=plastic) <br> ![Windows](https://img.shields.io/badge/Platform-Windows-0078D6?logo=windows&style=plastic) <br> ![Language](https://img.shields.io/badge/Language-Python-3776AB?logo=python&logoColor=white&style=plastic) | ![Stars](https://img.shields.io/github/stars/jmcaamanog/png_to_ico?style=plastic&color=yellow&logo=github) <br> ![License](https://img.shields.io/github/license/jmcaamanog/png_to_ico?style=plastic&color=green) |
 
 (Arquitecto Técnico_JMC) Herramienta de escritorio ligera diseñada específicamente para la conversión rápida de imágenes PNG a iconos de Windows (`.ico`). Pensada para desarrolladores y creadores de herramientas (como las aplicaciones de la *Nemo Suite*) que necesitan generar iconos multiresolución o empaquetar ejecutables sin depender de servicios web ni perder calidad en el proceso.
 
@@ -51,31 +45,8 @@ Si prefieres ejecutar o modificar el software desde el código fuente, necesitar
    pyinstaller --noconsole --onefile --icon="app_icon.ico" --add-data "app_icon.ico;." png_to_ico_converter.py
 ## 👨‍💻 Autor
 
-Jose Manuel Caamaño González | Arquitecto Técnico & BIM Manager.
-Digital Product Lead | ConTech & Digital Twin SaaS | BIM, Energy Modeling & Sustainability | Data Analytics (SQL, Power BI)
+**Jose Manuel Caamaño González** | Arquitecto Técnico & BIM Manager
+Digital Product Lead | ConTech & Digital Twin SaaS | Data Analytics (SQL, Power BI)
 
 Hecho con código y café desde A Coruña. ☕
-
-Jose Manuel Caamaño González | [LinkedIn](https://www.linkedin.com/in/jmcaamanog/)isual del proyecto. Incluye capturas de pantalla de la interfaz de usuario en funcionamiento.
-*   📁 **`EJECUTABLE/`**: Contiene el programa compilado (`.exe`) listo para descargar y usar en Windows, sin necesidad de instalar Python ni librerías adicionales.
-*   📄 **`png_to_ico_converter.py`**: El código fuente de la interfaz gráfica y la lógica de conversión.
-
-## ⚙️ Requisitos para el Código Fuente
-
-Si prefieres ejecutar o modificar el software desde el código fuente, necesitarás:
-
-1. Clonar el repositorio y navegar a la carpeta.
-2. Instalar las dependencias necesarias:
-   ```bash
-   pip install customtkinter Pillow
-3. Ejecutar el programa::
-   ```bash
-   python png_to_ico_converter.py
-## 👨‍💻 Autor
-
-Jose Manuel Caamaño González | Arquitecto Técnico & BIM Manager.
-Digital Product Lead | ConTech & Digital Twin SaaS | BIM, Energy Modeling & Sustainability | Data Analytics (SQL, Power BI)
-
-Hecho con código y café desde A Coruña. ☕
-
-Jose Manuel Caamaño González | [LinkedIn](https://www.linkedin.com/in/jmcaamanog/)
+[LinkedIn](https://www.linkedin.com/in/jmcaamanog/) · [Web](https://jmcaamanog.pages.dev)
